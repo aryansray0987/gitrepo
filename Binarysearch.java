@@ -2,7 +2,7 @@ package binarysearch;
 
 public class Binarysearch {
     public static void main(String[] args) {
-        int[] arr={1,34,56,66,94,78,94,109};
+        int[] arr={2,34,56,66,94,78,94,109};
         int target=56;
         boolean result=false;// we are assuming that target is not present in the array.
         int n=arr.length;
